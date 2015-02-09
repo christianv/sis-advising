@@ -1,0 +1,12 @@
+body {
+  background: #fff;
+  font-family: sans-serif;
+}
+
+.core-header {
+  background-color: #4F7DC9;
+  color: #FFF;
+  font-size: 18px;
+  padding: 20px 10px;
+  transition: height 0.2s;
+}
